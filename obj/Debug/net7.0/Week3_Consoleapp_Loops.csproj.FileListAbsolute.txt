@@ -1,0 +1,14 @@
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\obj\Debug\net7.0\Week3_Consoleapp_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\obj\Debug\net7.0\Week3_Consoleapp_Loops.AssemblyInfoInputs.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\obj\Debug\net7.0\Week3_Consoleapp_Loops.AssemblyInfo.cs
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\obj\Debug\net7.0\Week3_Consoleapp_Loops.csproj.CoreCompileInputs.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\bin\Debug\net7.0\Week3_Consoleapp_Loops.exe
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\bin\Debug\net7.0\Week3_Consoleapp_Loops.deps.json
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\bin\Debug\net7.0\Week3_Consoleapp_Loops.runtimeconfig.json
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\bin\Debug\net7.0\Week3_Consoleapp_Loops.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\bin\Debug\net7.0\Week3_Consoleapp_Loops.pdb
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\obj\Debug\net7.0\Week3_Consoleapp_Loops.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\obj\Debug\net7.0\refint\Week3_Consoleapp_Loops.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\obj\Debug\net7.0\Week3_Consoleapp_Loops.pdb
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\obj\Debug\net7.0\Week3_Consoleapp_Loops.genruntimeconfig.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\Week3_Consoleapp_Loops\obj\Debug\net7.0\ref\Week3_Consoleapp_Loops.dll
